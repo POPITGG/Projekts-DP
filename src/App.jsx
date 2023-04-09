@@ -36,7 +36,7 @@ function App() {
   return (
     <div className="App">
 
-      <h1> To-do list </h1>
+      <h1> Dienas darbi </h1>
       
       {names.length > 0 ? 
         
